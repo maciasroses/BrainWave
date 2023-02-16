@@ -1,1 +1,1 @@
-# Wize-Lokos
+# BrainWave
